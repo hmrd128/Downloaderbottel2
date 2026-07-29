@@ -1,0 +1,3 @@
+# این فایل به Railway می‌گه که ffmpeg رو هم نصب کنه (برای فشرده‌سازی ویدیوهای بزرگ)
+[phases.setup]
+nixPkgs = ["python3", "ffmpeg"]
